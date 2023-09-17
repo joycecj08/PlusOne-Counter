@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(152, 152, 183);
+    background-size: cover;
+    margin: 100px;
+    padding: 50px;
+    text-align: center;
+    
+    
+}
+
+.container h1{
+     text-align: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     border: 1px solid;
+     width: 300px;
+     position: relative;
+     left: 350px;
+     color: rgb(197, 198, 209);
+     border-radius: 5px;
+}
+
+.container h2{
+    color: rgb(197, 198, 209);;
+}
+#increment-btn{
+    background-color: rgb(197, 198, 209);
+    color:  rgb(152, 152, 183);
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    height: 30px;
+    width: 100px;
+    position: relative;
+    left: 53px;
+}
+#save-btn{
+    background-color: rgb(197, 198, 209);
+    color:  rgb(152, 152, 183);
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30px;
+    width: 100px;
+    position: relative;
+    top: 50px;
+    left: -50px;
+    
+}
+.container p{
+    color: rgb(197, 198, 209);;
+    position: relative;
+    top: 38px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
